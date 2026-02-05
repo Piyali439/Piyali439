@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Piyali!<br>MERN Stack developer with a specialized focus on creating beautiful, functional user interfaces. <br>Occasionally contributing to open-source projects, focusing on bug fixes and documentation.<br>I maintain my skills with consistent activity demonstrated by my stats and streak. You can see my best work by checking my repositories and reaching out on LinkedIn.<br>On a new project utilizing React.js and exploring the domain of MERN stack.<br>Improving my expertise in Backend and cloud deployment.
+Hi there, I'm Piyali!<br>MERN Stack developer with a specialized focus on creating beautiful, functional user interfaces. <br>Occasionally contributing to open-source projects, focusing on bug fixes and documentation.<br> You can see my best work by checking my repositories and reaching out on LinkedIn.<br>On a new project utilizing React.js and exploring the domain of MERN stack.<br>Improving my expertise in Backend and cloud deployment.
 
 
 ## 🌐 Socials:
